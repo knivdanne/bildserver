@@ -2,7 +2,7 @@
 Simple Django server for uploading pictures
 
 # Windows:
-git clone https://github.com/bildserver
+git clone https://github.com/knivdanne/bildserver
 
 open cmd and run:
 cd bildserver
